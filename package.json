@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "axios": "^0.27.2",
+    "mongoose": "^6.5.4",
     "next": "12.2.5",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "typewriter-effect": "^2.19.0"
   },
   "devDependencies": {
     "eslint": "8.23.0",
